@@ -1,0 +1,9 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "MBDS Project"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Project"
+      href: project.html
