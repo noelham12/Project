@@ -3,3 +3,12 @@ title: "My Website"
 ---
 
 Hello, Website!
+
+
+```{r, echo=FALSE}
+
+ cats<-load.image("cat.png")
+ plot(cats, axes = FALSE, main = "Cats")
+
+```
+
